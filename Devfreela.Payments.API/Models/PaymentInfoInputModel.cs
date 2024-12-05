@@ -3,7 +3,7 @@
     public class PaymentInfoInputModel
     {
         public int IdProject { get; set; }
-        public string CreditCardNumer { get; set; }
+        public string CreditCardNumber { get; set; }
         public string Cvv { get; set; }
         public string ExpiresAt { get; set; }
         public string FullName { get; set; }
